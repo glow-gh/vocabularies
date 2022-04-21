@@ -1,2 +1,8 @@
-# vocabularies
-Repository of the Vocabularies Consortium, an initiative towards the standardisation of entity definitions and controlled vocabularies for digital text catalogues
+# Vocabularies Consortium
+This is the workspace and data repository of the Vocabularies Consortium, an initiative comprising several working groups dedicated to further the standardisation of metadata entities and associated vocabularies in cuneiform studies.
+
+The Vocabularies Consortium draws on the [Metadata in Assyriology](https://www.lingfil.uu.se/research/assyriology/events#MetadatainAssyriology) sessions organised by [Geomapping Landscapes of Writing: Large-Scale Spatial Analysis of the Cuneiform Corpus (GLoW)](https://www.lingfil.uu.se/research/assyriology/glow/) and held virtually at Uppsala University 23-26 November 2020, as well as a subsequent survey of data repositories and data standards in the field of cuneiform studies conducted during March and April 2021.
+
+In light of these activities, we propose the formation of a loose consortium to encourage standardisation and integration of shared metadata vocabularies. This will take the form of a set of targeted initiatives aimed at surveying, developing, and guiding the joint formation and integration of key groups of metadata across different projects and repositories. At present, we aim to set up three working groups, focusing on spatial, chronological, and bibliographical metadata respectively. 
+
+Each group will be overseen by a convenor charged with practical matters of organising and documenting initiative activities. The consortium is otherwise conceived as a flat discussion and working forum, meaning that participants are free to engage with any consortium initiative, and to suggest the launch of further initiatives. The primary requirement for individual participants is their association with a project, initiative, or repository assembling and curating metadata vocabularies of the types mentioned above. The provisional work programme, subject to the preferences of individual working groups, can be sketched as follows:
