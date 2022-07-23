@@ -6,7 +6,6 @@ rank: 1
 
 ## Bibliography: publication
 
-# Location
 <font size=2>Bibliography Working Group</font></br><font size=1>Manuel Molina (BDTNS), Wiebke Meinhold (Keibi), Georg Neumann (Keibi), Michaela Weszeli (Register Assyriologie), Adam Anderson (dubsar)
 
 … </font>
