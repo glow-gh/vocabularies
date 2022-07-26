@@ -14,13 +14,14 @@ rank: 1
 The **publication** entity defines the features of any publication of a cuneiform artifact, which may act as a type of primary source publication. Secondary source references to cuneiform tablets, such as sign readings, translations, etc. will be dealt with in the Bibliography Reference Markdown. As included in digital catalogues in cuneiform studies, the publications feature consists of a standardized citation which typically includes: author, title, date, and other publication information for an artifact with a cuneiform inscription. For an example of these standardized citations found in bibliography **publication** entities as employed in digital catalogues in cuneiform studies, see the [CDLI](https://cdli.ox.ac.uk/wiki/abbreviations_for_assyriology) and the [Keilschrift Bibliographie](https://vergil.uni-tuebingen.de/keibi/index.php?r=volume/list). 
 
 ## Recommended fields
-As a **publication** may contain multiple entity types, we utilize a metadata schema that can be converted to [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#terms-bibliographicCitation) and [MARC](https://www.loc.gov/marc/umb/um01to06.html) standards. A **publication** should always include an **author** of the work, along with a **title** and **year** in whic the work was published. 
+As a **publication** may contain multiple entity types, we utilize the fields from [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#terms-bibliographicCitation) and [MARC](https://www.loc.gov/marc/umb/um01to06.html) standards. A **publication** should always include an **author** of the work, along with a **title** and **year** in whic the work was published. 
 
 name | description
 -----|---------------
 author | Last name, First name and/or initials (L, F) of the author of the publication
 title | title information (which includes the title, subtitle, and other title information) of the publication
 publication | publication information (which includes the title of the journal or book series)
+publisher | name of the insitution or company who published the work
 series | numeric series statement for book series if appropriate
 vol | volume number if appropriate
 issue | issue number if appropriate
@@ -40,6 +41,7 @@ wikidata | Identifier (Q-number) of the corresponding wikidata item, property (P
 URL | Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)) of the specific web page where the referenced content can be found
 ISBN | International Standard Book Number (ISBN)
 DOI | Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) for the publication
+ORCID | Unique identifier for authors ([ORCID](https://info.orcid.org/documentation/))
 LCNN | Library of Congress Control Number
 subj | topical subject heading
 edition | edition number, if not he first edition
